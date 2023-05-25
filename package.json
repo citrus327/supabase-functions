@@ -1,0 +1,26 @@
+{
+  "name": "supbase-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrus327/supbase-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citrus327/supbase-functions/issues"
+  },
+  "homepage": "https://github.com/citrus327/supbase-functions#readme",
+  "devDependencies": {
+    "supabase": "^1.63.1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.22.0"
+  }
+}
